@@ -19,6 +19,7 @@ We hope this helps you on your journey to becoming an epic outlier!
 # Table of Contents
 
 - [First-Year Resources](#fyr)
+- [Qual Resources](#qual-resources)
 
 ## First-Year Coursework Resources <a name="fyr"></a>
 
@@ -26,4 +27,8 @@ The following repositories are related to the first-year coursework:
 
 - [STATS310-Dembo-Solutions](https://github.com/EpicOutliers/STATS310-Dembo-Solutions) __(private)__
 - [STATS300A-Romano-Solutions](https://github.com/EpicOutliers/STATS300A-Romano-Solutions) __(private)__
+- [Kenneth Tay's Notes](https://github.com/EpicOutliers/kjytay-stanford-stats)
 
+## Qual Resources
+
+- [Kenneth Tay's Notes](https://github.com/EpicOutliers/kjytay-stanford-stats)
