@@ -8,7 +8,7 @@ This organization grew out of a collaboration among a few outliers to create a s
 We realized that the first-year students can benefit greatly from this full set of solutions, as STATS310 can be quite daunting.
 Beyond solution sets, we also observed that there was a lack of a central source for notes.
 Many students end up writing their own set of notes, which certainly has merits for self-edification purposes, 
-but a lot of the time can still be saved if people could contribute to __one__ polished set of notes.
+but a lot of time can still be saved if people could contribute to __a few__ polished set of notes.
 This repository also welcomes any research-related material. 
 For example, a list of important papers in a certain area to get quickly acclimated to the material.
 
@@ -23,4 +23,5 @@ We hope this helps you on your journey to becoming an epic outlier!
 The following repositories are related to the first-year coursework:
 
 - [STATS310-Dembo-Solutions](https://github.com/EpicOutliers/STATS310-Dembo-Solutions) __(private)__
+- [STATS300A-Romano-Solutions](https://github.com/EpicOutliers/STATS300A-Romano-Solutions) __(private)__
 
