@@ -12,6 +12,8 @@ but a lot of time can still be saved if people could contribute to __a few__ pol
 This repository also welcomes any research-related material. 
 For example, a list of important papers in a certain area to get quickly acclimated to the material.
 
+For suggestions on improving this repository, submit a PR [here](https://github.com/EpicOutliers/.github/pulls). Things like "I wish we had ABC resources" or "There's a typo in XYZ" are all welcome!
+
 We hope this helps you on your journey to becoming an epic outlier!
 
 # Table of Contents
